@@ -6,8 +6,8 @@
 
 body {
     display: flex;
-    width: 100vw;
-    height: 100vh;
+    width: 100rem;
+    height: 100rem;
     gap: 300px;
     background-color: #470000;
 }
